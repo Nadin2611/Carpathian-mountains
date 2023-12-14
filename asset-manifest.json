@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Carpathian-mountains/static/css/main.7acaea2f.css",
+    "main.js": "/Carpathian-mountains/static/js/main.11b4518b.js",
+    "index.html": "/Carpathian-mountains/index.html",
+    "main.7acaea2f.css.map": "/Carpathian-mountains/static/css/main.7acaea2f.css.map",
+    "main.11b4518b.js.map": "/Carpathian-mountains/static/js/main.11b4518b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.11b4518b.js"
+  ]
+}
